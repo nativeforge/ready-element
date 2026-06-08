@@ -1,0 +1,35 @@
+{
+  "name": "@nativelayer.dev/ready-element",
+  "version": "0.0.1",
+  "description": "Know exactly when your Web Components are ready and functional, not just registered.",
+  "type": "module",
+  "main": "index.js",
+  "types": "index.d.ts",
+  "exports": {
+    ".": {
+      "import": "./index.js",
+      "types": "./index.d.ts"
+    }
+  },
+  "files": [
+    "index.js",
+    "index.d.ts",
+    "README.md",
+    "LICENSE"
+  ],
+  "keywords": [
+    "web-components",
+    "custom-elements",
+    "ready",
+    "promise",
+    "lifecycle"
+  ],
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/nativeforge/ready-element"
+  },
+  "publishConfig": {
+    "access": "public"
+  }
+}
