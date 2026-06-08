@@ -1,4 +1,4 @@
-<img src="./ready-element-logo.jpg" alt="readyElement logo">
+<img src="./ready-element-logo.jpg" alt="readyElement logo" style="max-width: 360px">
 
 # readyElement
 
