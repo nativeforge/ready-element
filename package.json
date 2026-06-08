@@ -15,7 +15,8 @@
     "index.js",
     "index.d.ts",
     "README.md",
-    "LICENSE"
+    "LICENSE",
+    "ready-element-logo.jpg"
   ],
   "keywords": [
     "web-components",

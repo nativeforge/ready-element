@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/nativeforge/nativelayer-website/main/__src/img/readyElement-logo.svg" width="96" alt="readyElement logo">
+<img src="./ready-element-logo.jpg" width="96" alt="readyElement logo">
 
 # readyElement
 
